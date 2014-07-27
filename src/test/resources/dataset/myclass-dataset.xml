@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+    <MY_CLASS ID="1" TITLE="TITLE1" VERSION="1" />
+    <MY_CLASS ID="2" TITLE="TITLE1" VERSION="2" />
+    <MY_CLASS ID="3" TITLE="TITLE1" VERSION="3" />
+    <MY_CLASS ID="4" TITLE="TITLE2" VERSION="8" />
+    <MY_CLASS ID="5" TITLE="TITLE2" VERSION="7" />
+
+</dataset>
